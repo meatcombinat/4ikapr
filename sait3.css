@@ -179,3 +179,14 @@ p {
 	grid-row-start: 6;
 	grid-row-end: 9;
 }
+
+.bgvideo {
+	position: fixed;
+	right: 0;
+	botton: 0;
+	min-widht: 100%;
+	min-height: 100%;
+	widht: auto;
+	height: auto;
+	z-index: -9999"
+}
