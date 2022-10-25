@@ -1,5 +1,5 @@
 *{
-	background-color: green;
+
 }
 
 .container{	
@@ -188,5 +188,5 @@ p {
 	min-height: 100%;
 	widht: auto;
 	height: auto;
-	z-index: -9999"
+	z-index: -9999;
 }
