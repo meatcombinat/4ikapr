@@ -1,5 +1,5 @@
 *{
-	background-color: black;
+	background-color: green;
 }
 
 .container{	
@@ -183,7 +183,7 @@ p {
 .bgvideo {
 	position: fixed;
 	right: 0;
-	botton: 0;
+	bottom: 0;
 	min-widht: 100%;
 	min-height: 100%;
 	widht: auto;
